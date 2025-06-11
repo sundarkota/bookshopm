@@ -1,2 +1,2 @@
-VCAP_SERVICES='{"hana":[{"name":"hanasch","instance_name":"hanasch","label":"hana","tags":["hana","database","relational","cap-resource-name:db","endpoint:undefined","org:undefined","space:undefined"],"plan":"hdi-shared"}]}'
+VCAP_SERVICES='{"hana":[{"name":"SAPHANDEV","instance_name":"SAPHANDEV","label":"hana","tags":["hana","database","relational","cap-resource-name:db","endpoint:undefined","org:undefined","space:undefined"],"plan":"hdi-shared"}]}'
 cds_requires='{"db":{"kind":"hana-cloud"}}'

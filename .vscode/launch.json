@@ -52,7 +52,7 @@
       "envFile": "${workspaceFolder}/env/.env2",
       "env": {
         "run.config": "{\"handlerId\":\"lcap_run_config_handler_id\",\"runnableId\":\"{\\\"projectPath\\\":\\\"/home/user/projects/Bookshopm\\\",\\\"profileName\\\":\\\"\\\"}\"}",
-        "runConfigurations": "{\"dbBinding\":{\"type\":\"SAP HANA Cloud\",\"dbName\":\"hanasch\"}}"
+        "runConfigurations": "{\"dbBinding\":{\"type\":\"SAP HANA Cloud\",\"dbName\":\"SAPHANDEV\"}}"
       }
     }
   ]
